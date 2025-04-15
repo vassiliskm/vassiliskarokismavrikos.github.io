@@ -13,8 +13,8 @@ title                    : "Vassilis Karokis-Mavrikos"
 title_separator          : "-"
 name                     : &name "Vassilis Karokis-Mavrikos"
 description              : &description "Postdoctoral Research Fellow in EU Public Policy (REDEMOS) | Research and Teaching in Public Policy and Comparative Politics | Health Policy, Crisis Management, Digital Governance"
-url                      : https://vassiliskm.github.io/website/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://vassiliskm.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "/website" # the subpath of your site, e.g. "/blog"
 repository               : "https://vassiliskm.github.io/website"
 
 # Site Author - The following control what appear as part of the author content on the side bar.

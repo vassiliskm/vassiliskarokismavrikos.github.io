@@ -1,6 +1,5 @@
 ---
-title: "What Can Drive a Digital Governance Transformation? Greece, the
-Covid-19 crisis and “a jump-started Lamborghini"
+title: 'What Can Drive a Digital Governance Transformation? Greece, the Covid–19 crisis and “a jump–started Lamborghini”'
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1

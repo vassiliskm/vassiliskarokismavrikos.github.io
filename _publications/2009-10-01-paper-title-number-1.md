@@ -7,5 +7,6 @@ excerpt: 'The COVID-19 pandemic tested state preparedness across the globe and e
 date: 2024-11-28
 venue: 'Policy and Internet'
 paperurl: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/poi3.428'
-citation: 'Karokis-Mavrikos, V. (2024). What can drive a digital governance transformation? Greece, the Covid-19 crisis and "a jump–started Lamborghini". *Policy & Internet*, *1*, 1–22. https://doi.org/10.1002/poi3.428'
+citation: >
+  Karokis-Mavrikos, V. (2024). What can drive a digital governance transformation? Greece, the Covid-19 crisis and "a jump–started Lamborghini". <em>Policy & Internet</em>, <em>1</em>, 1–22. https://doi.org/10.1002/poi3.428
 ---

@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: 'Advancing the Operationalization of National Policy Styles'
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2009-10-01-paper-title-number-2
+excerpt: 'While national policy styles have (re)gained academic attention in recent comparative public policy work, the concept still needs a widely accepted operationalization that can allow the collection and analysis of data across contexts while steering away from construct validity threats. We build on Tosun and Howlett's (2022) work and employ a mixed-methods approach, which relies on exploratory factor analysis and hierarchical cluster analysis. We put forth an operationalization, using Bertelsmann's Sustainable Governance Indicators (SGI) as proxies, that achieves conceptual clarity and distinctiveness, informational robustness, and statistical power. Ultimately, we construct two composite indicators—mode of problem-solving and inclusiveness—calculate them in 41 countries and present policy style classifications based on their combinations. We report the distribution of countries across four policy styles (administrative, managerial, accommodative, adversarial) and conclude with an analysis of the clusters, assessments of robustness, and comparison with other national policy style classification schemes.'
+date: 2023-03-27
+venue: 'European Policy Analysis'
+paperurl: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/epa2.1172'
+citation: 'Zahariadis, N., Karokis-Mavrikos, V., Exadaktylos, T., Kyriakidis, A., Sparf, J., & Petridou, E. (2023). Advancing the operationalization of national policy styles. European Policy Analysis, 9, 200–218. https://doi.org/10.1002/epa2.1172'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

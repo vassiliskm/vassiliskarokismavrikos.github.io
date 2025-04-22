@@ -1,11 +1,14 @@
 ---
-title: 'Advancing the Operationalization of National Policy Styles'
+title: 'Shifting Ideational Paradigms in Public Health: the case of Greece'
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-2
-excerpt: 'While national policy styles have (re)gained academic attention in recent comparative public policy work, the concept still needs a widely accepted operationalization that can allow the collection and analysis of data across contexts while steering away from construct validity threats. We build on Tosun and Howlett''s (2022) work and employ a mixed-methods approach, which relies on exploratory factor analysis and hierarchical cluster analysis. We put forth an operationalization, using Bertelsmann''s Sustainable Governance Indicators (SGI) as proxies, that achieves conceptual clarity and distinctiveness, informational robustness, and statistical power. Ultimately, we construct two composite indicators—mode of problem-solving and inclusiveness—calculate them in 41 countries and present policy style classifications based on their combinations. We report the distribution of countries across four policy styles (administrative, managerial, accommodative, adversarial) and conclude with an analysis of the clusters, assessments of robustness, and comparison with other national policy style classification schemes.'
-date: 2023-03-27
-venue: 'European Policy Analysis'
-paperurl: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/epa2.1172'
-citation: 'Zahariadis, N., Karokis-Mavrikos, V., Exadaktylos, T., Kyriakidis, A., Sparf, J., & Petridou, E. (2023). Advancing the operationalization of national policy styles. European Policy Analysis, 9, 200–218. https://doi.org/10.1002/epa2.1172'
+category: books
+permalink: /publication/2009-10-01-paper-title-number-3
+excerpt: 'The Multiple Streams Framework (MSF) has long enjoyed prominence as an analytical tool for the study of policy change (Kingdon 1984). Scholarly applications have spanned contexts and policy fields (Jones et al. 2015) and have been highly successful in uncovering the mechanisms underpinning policy shifts, especially in the decision agenda (Herweg, Zahariadis and Zohlnhöfer 2018). As change is dynamic, recent accounts have extended the MSF’s focus to the implementation stage (Fowler 2019; Sager and Thomann 2017). An emerging challenge in the literature concerns connecting policy design and implementation (Fowler 2022; Zahariadis and Exadaktylos 2016) to understand why some bills provisioning radical change succeed in shifting policy trajectories but others do not. We intend to contribute to this research agenda through a longitudinal account of public health policy in Greece. We apply the MSF toolkit to the study of public health policy change, centering our analysis on two focusing events: the 2003 SARS outbreak and the Covid-19 pandemic. The first triggered the institutionalization of public health policymaking for the first time in Greece’s modern history (Bill 3172/2003) and the second tested the degree of entrenchment of the new paradigm nearly two decades later. In doing so, we evaluate the interrelation of policy design and implementation and uncover contextually-driven insights for the potential theoretical advancement of the framework.'
+date: 2023-04-01
+venue: 'A Modern Guide to the Multiple Streams Framework: Elgar Modern Guides'
+paperurl: 'assets/papers/Shifting Ideational Paradigms_Writing Sample 2.pdf'
+citation: 'Karokis-Mavrikos, V. and  Mavrikou, M. 'Shifting Ideational Paradigms in Public Health:
+the case of Greece', In: The Modern Guide to the Multiple Streams Framework, edited by Nikolaos
+Zahariadis, Nikole Herweg, Reimut Zohlnhöfer and Evangelia Petridou. Edward Elgar.
+https://doi.org/10.4337/9781802209822.00016'
 ---

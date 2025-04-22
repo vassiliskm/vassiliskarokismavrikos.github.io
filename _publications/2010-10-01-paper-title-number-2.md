@@ -7,5 +7,6 @@ excerpt: 'While national policy styles have (re)gained academic attention in rec
 date: 2023-03-27
 venue: 'European Policy Analysis'
 paperurl: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/epa2.1172'
-citation: 'Zahariadis, N., Karokis-Mavrikos, V., Exadaktylos, T., Kyriakidis, A., Sparf, J., & Petridou, E. (2023). Advancing the operationalization of national policy styles. *European Policy Analysis*, *9*(2), 200–218. https://doi.org/10.1002/epa2.1172'
+citation: >
+  Zahariadis, N., Karokis-Mavrikos, V., Exadaktylos, T., Kyriakidis, A., Sparf, J., & Petridou, E. (2023). Advancing the operationalization of national policy styles. <em>European Policy Analysis</em>, <em>9</em>(2), 200–218. https://doi.org/10.1002/epa2.1172
 ---

@@ -7,5 +7,5 @@ excerpt: 'The Multiple Streams Framework (MSF) has long enjoyed prominence as an
 date: 2023-04-01
 venue: 'A Modern Guide to the Multiple Streams Framework: Elgar Modern Guides'
 paperurl: '/assets/papers/Shifting Ideational Paradigms_Writing Sample 2.pdf'
-citation: 'Karokis-Mavrikos, V. and Mavrikou, M. ''Shifting Ideational Paradigms in Public Health: the case of Greece'', In: The Modern Guide to the Multiple Streams Framework, edited by Nikolaos Zahariadis, Nikole Herweg, Reimut Zohlnhöfer and Evangelia Petridou. Edward Elgar. https://doi.org/10.4337/9781802209822.00016'
+citation: 'Karokis-Mavrikos, V., & Mavrikou, M. (2023). Shifting ideational paradigms in public health: The case of Greece. In N. Zahariadis, N. Herweg, R. Zohlnhöfer, & E. Petridou (Eds.), *A modern guide to the multiple streams framework* (pp. 123–145). Edward Elgar. https://doi.org/10.4337/9781802209822.00016'
 ---

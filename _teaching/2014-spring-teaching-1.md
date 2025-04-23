@@ -1,3 +1,4 @@
+---
 title: "Politics of Crisis (POL1027)"
 collection: teaching
 type: "Undergraduate module"
@@ -7,3 +8,4 @@ date: 2025-01-01
 location: "Guildford, UK"
 role: "Seminar Leader"
 module_url: "https://catalogue.surrey.ac.uk/2025-6/module/POL1027"
+---

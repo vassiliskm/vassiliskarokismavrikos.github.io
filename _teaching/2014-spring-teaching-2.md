@@ -2,10 +2,13 @@
 title: "Power and Ideas: Introduction to Political Ideologies: POL2035"
 collection: teaching
 type: "Undergraduate module"
-permalink: /teaching/module2
+permalink: /teaching/2014-spring-teaching-2
 venue: "University of Surrey, Department of Politics and International Relations"
 date: 2025-01-01
 location: "Guildford, UK"
 role: "Seminar Leader"
 module_url: "https://catalogue.surrey.ac.uk/2025-6/module/POL2035"
 ---
+
+
+

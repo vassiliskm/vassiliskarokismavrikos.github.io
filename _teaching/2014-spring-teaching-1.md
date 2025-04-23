@@ -7,5 +7,5 @@ venue: "University of Surrey, Department of Politics and International Relations
 date: 2025-01-01
 location: "Guildford, UK"
 role: "Seminar Leader"
-module_url: "https://www.surrey.ac.uk/module/POL1027"
+module_url: "https://catalogue.surrey.ac.uk/2025-6/module/POL1027"
 ---

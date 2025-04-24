@@ -24,7 +24,7 @@ redirect_from:
   <p>
     Feel free to get in touch via 
     <a href="mailto:vassilis.karokis-mavrikos@surrey.ac.uk">email</a> or 
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">LinkedIn</a>.
+    <a href="www.linkedin.com/in/vassilis-karokis-mavrikos-2baa80191" target="_blank">LinkedIn</a>.
   </p>
   <p>
     Email: vassilis.karokis-mavrikos@surrey.ac.uk

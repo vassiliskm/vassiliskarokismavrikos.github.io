@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Vassilis Karokis-Mavrikos | Academic Website"
+title: "Welcome to my academic webpage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 excerpt: "Official homepage of Vassilis Karokis-Mavrikos, Postdoctoral Fellow in EU Public Policy (REDEMOS). Researcher in health policy, digital governance, and crisis management."
+seo:
+  title: "Vassilis Karokis-Mavrikos | Academic Website"
 ---
   <p>
     I am an early-career researcher interested in public policy and comparative politics in both national and international contexts. 
